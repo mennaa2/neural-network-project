@@ -1,4 +1,7 @@
-tensorflow
-numpy
-matplotlib
-scikit-learn
+ Technologies Used
+- Python
+- PyTorch
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
